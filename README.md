@@ -1,3 +1,3 @@
 # Lets-Vote
 
-<img src="img/screenshot.jpg">
+<img src="https://github.com/wasuradananjith/Lets-Vote/img/screenshot.jpg">
